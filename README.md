@@ -2,8 +2,6 @@
 
 Hey! welcome to my portfolio.
 
-Its comming up tomorrow.
-
 For now I know:
 
 1. JavaScript
